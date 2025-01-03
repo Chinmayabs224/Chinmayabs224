@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm a passionate developer who loves to explore ne
 
 ## 🚀 About Me
 
-- 🌱 I’m currently learning **[Your Current Learning Focus]**
+- 🌱 I’m currently learning **[Artificial intelligence and machine learning]**
 - 👯 I’m looking to collaborate on **[Projects or Technologies You're Interested In]**
 - 🤔 I’m looking for help with **[Areas You Need Help With]**
 - 💬 Ask me about **[Your Expertise or Interests]**
@@ -32,7 +32,7 @@ Welcome to my GitHub profile! I'm a passionate developer who loves to explore ne
 
 ## 📫 Contact Me
 
-- **Email:** [Your Email]
+- **Email:** [chinmayabs10f06@gmail.com]
 - **LinkedIn:** [Your LinkedIn Profile]
 
 Feel free to reach out if you want to collaborate on a project or just want to say hi! 😊
