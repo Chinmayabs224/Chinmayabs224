@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="mailto:chinmayabs10f06@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-HERE"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <img src="https://komarev.com/ghpvc/?username=Chinmayabs224&style=flat-square&color=blue" alt="Profile Views" />
 </p>
 
@@ -65,12 +65,12 @@
 ## 📫 Let's Connect!
 
 - 📧 **Email:** [chinmayabs10f06@gmail.com](mailto:chinmayabs10f06@gmail.com)  
-- 🔗 **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/YOUR-LINKEDIN)
+- 🔗 **LinkedIn:** [https://www.linkedin.com/in/YOUR-LINKEDIN-HERE](https://www.linkedin.com/in/YOUR-LINKEDIN-HERE)
 
 > *“Code is like humor. When you have to explain it, it’s bad.” — Cory House*
 
 ---
 
 <p align="center">
-  <img src="https://github.com/Chinmayabs224/Chinmayabs224/blob/main/wave.svg" alt="Thanks for visiting!" width="100%" />
+  <img src="https://raw.githubusercontent.com/Chinmayabs224/Chinmayabs224/main/wave.svg" alt="Thanks for visiting!" width="100%" />
 </p>
